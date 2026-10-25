@@ -2,9 +2,9 @@
 
 A dynamic, multi-page corporate website with an interactive 3D experience, a full-stack backend, and an admin dashboard. Built as the Full Stack Developer interview assignment.
 
-- **Frontend (live):** `<ADD VERCEL URL>`
-- **Backend API (live):** `<ADD RENDER URL>`
-- **Admin dashboard:** `<ADD VERCEL URL>/admin`
+- **Frontend (live):** https://riyadvi-ten.vercel.app
+- **Backend API (live):** https://riyadvi-0v27.onrender.com
+- **Admin dashboard:** https://riyadvi-ten.vercel.app/admin
 
 ---
 
